@@ -35,10 +35,10 @@ O projeto está organizado de forma modular para facilitar manutenção e escala
   <li>avaliacao.py: Classe que lida com avaliações de clientes.</li>
 
   <li>Subpasta itens: Agrupa classes específicas de itens da biblioteca, como:</li>
-
-  <li>item_biblioteca.py: Classe base (abstrata) para itens da biblioteca.</li>
-
-  <li>livro.py e revista.py: Classes especializadas para representar livros e revistas.</li>
+  <ul>
+    <li>item_biblioteca.py: Classe base (abstrata) para itens da biblioteca.</li>
+    <li>livro.py e revista.py: Classes especializadas para representar livros e revistas.</li>
+  </ul>
 </ul>
 
 <h2>🚀 Objetivo</h2>
