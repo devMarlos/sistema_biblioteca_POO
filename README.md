@@ -3,24 +3,26 @@
 <h3>Este projeto é um sistema de gerenciamento de biblioteca desenvolvido em Python como exercício prático de Programação Orientada a Objetos (POO). Ele explora e aplica conceitos fundamentais e avançados de POO.</h3>
 
 <h2>💡 Funcionalidades e Conceitos Aplicados: </h2>
-Classes e Objetos: Estruturando a base do sistema.
+<ul>
+<li>Classes e Objetos: Estruturando a base do sistema.</li>
 
-Métodos de Classe e de Instância: Organização e comportamento dinâmico e estático.
+<li>Métodos de Classe e de Instância: Organização e comportamento dinâmico e estático.</li>
 
-Herança: Reutilização e extensão de funcionalidades.
+<li>Herança: Reutilização e extensão de funcionalidades.</li>
 
-Composição: Relacionamento entre objetos e encapsulamento de lógica.
+<li>Composição: Relacionamento entre objetos e encapsulamento de lógica.</li>
 
-Polimorfismo: Manipulação de objetos de diferentes classes de maneira uniforme.
+<li>Polimorfismo: Manipulação de objetos de diferentes classes de maneira uniforme.</li>
 
-Métodos Abstratos: Implementação de interfaces e suporte ao design orientado a abstrações.
+<li>Métodos Abstratos: Implementação de interfaces e suporte ao design orientado a abstrações.</li>
 
-Outros Conceitos Avançados: Boas práticas de programação e design limpo.
+<li>Outros Conceitos Avançados: Boas práticas de programação e design limpo.</li>
+</ul>
 
-⚙️ Tecnologias
+<h2>⚙️ Tecnologias <h2></h2>
 Python 3.11
 
-📁 Estrutura do Projeto
+<h2>📁 Estrutura do Projeto</h2>
 O projeto está organizado de forma modular para facilitar manutenção e escalabilidade. Veja a estrutura geral:
 <ul>
 <li>app.py: Ponto de entrada do sistema, responsável por executar a aplicação e interagir com as classes principais.</li>
@@ -38,5 +40,5 @@ O projeto está organizado de forma modular para facilitar manutenção e escala
 <li>livro.py e revista.py: Classes especializadas para representar livros e revistas.</li>
 </ul>
 
-🚀 Objetivo
+<h2>🚀 Objetivo</h2>
 Consolidar o aprendizado em POO e construir uma base sólida enquanto desenvolve uma aplicação funcional e escalável.
