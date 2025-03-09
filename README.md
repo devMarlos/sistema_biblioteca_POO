@@ -1,7 +1,8 @@
-Sistema de Biblioteca 🏫📚
+<h1>Sistema de Biblioteca 🏫📚<h1><br>
 Este projeto é um sistema de gerenciamento de biblioteca desenvolvido em Python como exercício prático de Programação Orientada a Objetos (POO). Ele explora e aplica conceitos fundamentais e avançados de POO.
+<br>
 
-💡 Funcionalidades e Conceitos Aplicados:
+<h2>💡 Funcionalidades e Conceitos Aplicados: </h2>
 Classes e Objetos: Estruturando a base do sistema.
 
 Métodos de Classe e de Instância: Organização e comportamento dinâmico e estático.
